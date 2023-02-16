@@ -291,6 +291,6 @@ TRANSLATION_LANGUAGES = {
             'Custom': '自定义模式',
             'Children': '儿童模式',
             'Comfortable': '舒适模式',
-            'Kitchen': '厨房模式,
+            'Kitchen': '厨房模式',
         },
     },
